@@ -1,0 +1,6 @@
+INSERT INTO EXCHANGE_RATE (id, dolar_price) VALUES ('USD', 1);
+INSERT INTO EXCHANGE_RATE (id, dolar_price) VALUES ('PEN', 0.27);
+INSERT INTO EXCHANGE_RATE (id, dolar_price) VALUES ('EUR', 1.17);
+INSERT INTO EXCHANGE_RATE (id, dolar_price) VALUES ('MXN', 0.049);
+INSERT INTO EXCHANGE_RATE (id, dolar_price) VALUES ('BRL', 0.18);
+INSERT INTO EXCHANGE_RATE (id, dolar_price) VALUES ('CLP', 0.0014);
